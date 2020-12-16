@@ -5,7 +5,6 @@
 ### Script para Tampermonkey 
 - tampermonkey/CrunchyrolliFramePlayer.user.js
 
-**UserScript feito pelo JarEdMaster, o código oficial do player pelo itallolegal**
 
 ### Extensão para navegador
 - Crunchyroll_Premium
