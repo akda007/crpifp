@@ -1,6 +1,9 @@
 # CRP Iframe Player
 
 ## Crunchyroll Premium
+
+### Codigo original feito por itallolegal
+
 ### Script para Tampermonkey 
 - [crpip-player](https://greasyfork.org/en/scripts/420591-crunchyroll-iframe-player)
 
@@ -19,3 +22,4 @@
     - Extensões
     - ativar modo desenvolvedor
     - load Crunchyroll_Premium_Kiwi-Browser
+
