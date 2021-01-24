@@ -2,7 +2,7 @@
 
 ## Crunchyroll Premium
 ### Script para Tampermonkey 
-- tampermonkey/CrunchyrolliFramePlayer.user.js
+- [crpip-player](https://greasyfork.org/en/scripts/420591-crunchyroll-iframe-player)
 
 
 ### Extensão para navegador
