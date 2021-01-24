@@ -21,7 +21,7 @@ function importPlayer(){
     	console.log("[CR Premium] Adicionando o jwplayer...");
     	ifrm = document.createElement("iframe");
     	ifrm.setAttribute("id", "frame"); 
-		ifrm.setAttribute("src", "https://luiz-lp.github.io/crpiframeplayer/"); 
+		ifrm.setAttribute("src", "https://akda007.github.io/crpifp/"); 
 		ifrm.setAttribute("width","100%");
 		ifrm.setAttribute("height","100%");
 		ifrm.setAttribute("frameborder","0");
