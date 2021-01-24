@@ -5,7 +5,7 @@
 ### Codigo original feito por itallolegal
 
 ### Script para Tampermonkey 
-- [crpip-player](https://greasyfork.org/en/scripts/420591-crunchyroll-iframe-player)
+- [crpifp-player](https://greasyfork.org/en/scripts/420591-crunchyroll-iframe-player)
 
 
 ### Extensão para navegador
